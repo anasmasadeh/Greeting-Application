@@ -1,2 +1,2 @@
-feature: morning greeting.
-displays "good morning!". 
+Feature: Morning Greeting.
+Displays "Good morning!". 

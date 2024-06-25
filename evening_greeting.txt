@@ -1,2 +1,2 @@
-feature: evening greeting.
-displays "good evening!". 
+Feature: Evening Greeting.
+Displays "Good Evening!". 
